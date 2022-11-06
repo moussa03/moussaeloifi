@@ -1,4 +1,4 @@
-# fly.toml file generated for moussaeloifi on 2022-11-06T13:49:30+01:00
+# fly.toml file generated for moussaeloifi on 2022-11-06T15:11:17+01:00
 
 app = "moussaeloifi"
 kill_signal = "SIGINT"
